@@ -12,3 +12,4 @@ if D >= 0:
 else:
     print("Rovnice nemá řešení.")
 input()
+ccccd
